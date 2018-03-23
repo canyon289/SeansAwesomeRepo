@@ -1,5 +1,6 @@
 def hello_world():
-    print("Hi everybody")
+    # saying hello only to myself
+    print("Hi to myself")
 
     
 def second_function():
