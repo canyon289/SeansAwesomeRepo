@@ -1,6 +1,7 @@
 def hello_world():
-    print("Hi everybody")
+    # Changed my function in some other changes
+    print("Hi to Other class")
 
     
 def second_function():
-    print("Hi Javier")
+    print("Hi Paul")
